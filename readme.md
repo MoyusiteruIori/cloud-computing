@@ -4,7 +4,9 @@
 >
 > 姓名：孟宇
 >
-> github 仓库地址（暂为 private 状态，将在第 17 周课程答辩结束后开源）：
+> github 仓库地址（暂为 private 状态，将在第 17 周课程答辩结束后开源）：https://github.com/MoyusiteruIori/cloud-computing
+>
+> 
 
 
 
